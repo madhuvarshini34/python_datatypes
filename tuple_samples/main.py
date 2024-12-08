@@ -9,7 +9,7 @@ def main():
         {"name": "Madhu", "age": 21, "grade": "A", "dob": "2002-04-15"},
         {"name": "Aishu", "age": 20, "grade": "A", "dob": "2003-05-20"},
         {"name": "Monica", "age": 22, "grade": "B", "dob": "2001-02-10"},
-        {"name": "Aswi", "age": 19, "grade": "C", "dob": "2004-07-01"},
+        {"name": "Aswigha", "age": 19, "grade": "C", "dob": "2004-07-01"},
         {"name": "Jeeva", "age": 23, "grade": "B", "dob": "2000-12-30"},
         {"name": "Ilan", "age": 18, "grade": "A", "dob": "2005-11-11"},
         {"name": "Ani", "age": 21, "grade": "B", "dob": "2002-08-05"},
